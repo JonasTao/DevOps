@@ -1,6 +1,8 @@
 # AutoOps - 自动化运维工具
 
 基于 Python 和 PyQt5 的自动化运维工具，提供服务器管理、命令执行、文件传输、任务调度等功能。
+<img width="1399" height="931" alt="image" src="https://github.com/user-attachments/assets/7f6f44d6-d22a-4f6b-ac1e-a113a60b4f2e" />
+
 
 ## 功能特性
 
